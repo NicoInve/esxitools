@@ -26,11 +26,12 @@ The script uses **CSV files** to import or export configurations.
 Contains the list of ESXi hosts where operations will be performed.
 
 **Example:**
-```csv
+```
 ESXiHost
 esxi01.domain.local
 esxi02.domain.local
 esxi03.domain.local
+```
 
 ---
 
@@ -38,7 +39,7 @@ esxi03.domain.local
 Contains vSwitch configurations to be imported into the ESXi hosts.
 
 **Example:**
-```csv
+```
 VSwitch,MTU,NICs
 vSwitch0,1500,vmnic0
 vSwitch1,9000,vmnic1,vmnic2
@@ -54,7 +55,7 @@ vSwitch1,9000,vmnic1,vmnic2
 Contains Port Group configurations for the ESXi hosts.
 
 **Example:**
-```csv
+```
 VSwitch,PortGroup,VLAN
 vSwitch0,Management,0
 vSwitch0,VM_Network,100
@@ -70,7 +71,7 @@ vSwitch1,Storage,200
 ## 🛠️ How to Use
 Run the script in PowerShell:
 
-```powershell
+```
 .\esxi-tools.ps1
 ```
 
@@ -162,14 +163,3 @@ This script is provided **as-is** without any warranty. Use at your own risk.
 
 ## 🏆 Contributions
 Feel free to **fork, modify, or contribute** to this project!
-
-
-
-### 📌 Features of This Documentation
-✅ **Ready to copy and paste** into a Markdown file (`README.md`).  
-✅ **Clear explanations** of all script functions.  
-✅ **Examples** of required CSV file formats.  
-✅ **Step-by-step instructions** on how to use each option.  
-✅ **Warnings and important notes** to prevent mistakes.  
-
-Now **ESXi Tools** has **professional documentation** ready for use! 🚀 Let me know if you need any changes! 💪****
