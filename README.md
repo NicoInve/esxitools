@@ -1,9 +1,3 @@
-Ecco la documentazione **completa** in formato **Markdown**, pronta per essere copiata e incollata direttamente in un file `README.md`. 🚀  
-
----
-
-### 📜 **`README.md` for ESXi Tools**
-
 # ESXi Tools - VMware PowerCLI Automation
 
 **ESXi Tools** is a PowerShell script that automates various operations on VMware ESXi hosts using **VMware PowerCLI**.  
