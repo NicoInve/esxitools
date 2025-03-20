@@ -3,7 +3,7 @@ Ecco la documentazione **completa** in formato **Markdown**, pronta per essere c
 ---
 
 ### 📜 **`README.md` for ESXi Tools**
-```markdown
+
 # ESXi Tools - VMware PowerCLI Automation
 
 **ESXi Tools** is a PowerShell script that automates various operations on VMware ESXi hosts using **VMware PowerCLI**.  
@@ -37,7 +37,6 @@ ESXiHost
 esxi01.domain.local
 esxi02.domain.local
 esxi03.domain.local
-```
 
 ---
 
