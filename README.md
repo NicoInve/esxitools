@@ -162,9 +162,8 @@ This script is provided **as-is** without any warranty. Use at your own risk.
 
 ## 🏆 Contributions
 Feel free to **fork, modify, or contribute** to this project!
-```
 
----
+
 
 ### 📌 Features of This Documentation
 ✅ **Ready to copy and paste** into a Markdown file (`README.md`).  
