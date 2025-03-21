@@ -1,4 +1,4 @@
-﻿# Function to show loading animation while executing a command
+# Function to show loading animation while executing a command
 function Show-LoadingAnimation {
     param ([string]$message)
 
